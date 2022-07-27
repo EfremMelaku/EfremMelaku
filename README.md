@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @EfremMelaku
-- 👀 I’m interested in project of java
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me by email
+I want to be programmer
 
 <!---
 EfremMelaku/EfremMelaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
