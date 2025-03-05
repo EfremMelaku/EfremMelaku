@@ -1,4 +1,3 @@
-I want to be programmer
 
 <!---
 EfremMelaku/EfremMelaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
